@@ -1,10 +1,5 @@
 Click here for code link : https://drive.google.com/drive/folders/1ukb7MozqcuRwNtNvmTX6Yl5IT-557o02?usp=drive_link
-![Uploading Screenshot 2026-06-22 175303.png…]()
-<img width="1883" height="873" alt="Screenshot 2026-06-24 162316" src="https://github.com/user-attachments/assets/ea814e20-9424-46fa-b701-d3e299568a59" />
-<img width="1851" height="847" alt="Screenshot 2026-06-24 162242" src="https://github.com/user-attachments/assets/cb1bd0cb-f05c-428b-9442-c9fdc6fbbfb5" />
-<img width="1458" height="776" alt="Screenshot 2026-06-24 161803" src="https://github.com/user-attachments/assets/d23c821a-318a-44d8-a3ba-d84063625ff5" />
-<img width="1857" height="817" alt="Screenshot 2026-06-24 142527" src="https://github.com/user-attachments/assets/bc1cc335-fb4d-4835-b175-87fb257a5900" />
-<img width="1458" height="776" alt="Screenshot 2026-06-24 161803" src="https://github.com/user-attachments/assets/ebb96b2e-4440-415a-a644-f40972141562" />
+
 
 
 Here is your complete GitHub README:
