@@ -13,11 +13,6 @@ Here is your complete GitHub README:
 
 > An end-to-end financial crime prevention system combining Machine Learning, AML Monitoring, Generative AI, RAG, and KYC Verification — built to simulate real-world fintech compliance workflows.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-Fraud%20Detection-red)
-![Gemini](https://img.shields.io/badge/Gemini-GenAI-orange)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
